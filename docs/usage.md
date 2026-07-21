@@ -25,3 +25,4 @@ Notes and usage details for steamdeck-pxe-llm.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
